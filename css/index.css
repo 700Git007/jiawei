@@ -44,20 +44,45 @@
 .container_left .item{
 	width: 305px;
 	height: 72px;
-	background-color: red;
+	/*background-color: #EEEEEE;*/
 	margin-top: 12px;
 }
 .container_left .line1{
-	border-bottom: 2px solid #978346
+	border-bottom: 2px solid #978346;
 }
 .container_left .line2{
-	border-bottom: 2px solid #d48205
+	border-bottom: 2px solid #d48205;
 }
 .container_left .line3{
-	border-bottom: 2px solid #b4b303
+	border-bottom: 2px solid #b4b303;
 }
 
 .container_left .item .tupian{
-	
+	margin-top: 3px;
+    width: 93px;
+}
+.container_left .item .dianming {
+	margin-bottom: 3px;
+}
+.container_left .item .wuxing {
+	margin-top: 3px;
+}
+.container_left .list .kuaican_item_right {
+	margin-left: 73px;
+}
+
+.container_left .item .pic_status_action, .container_left .item .pic_status_rest {
+	height: 20px;
+    left: 0;
+    position: absolute;
+    top: 49px;
+    width: 59px;
+    z-index: 10;
+}
+.container_left .item .pic_status_action {
+	background: url("images/index_item_action_59x20.png") no-repeat 0 0;
+}
+.container_left .item .pic_status_rest {
+	background: url("images/index_item_rest_59x20.png") no-repeat 0 0;
 }
 
