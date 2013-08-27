@@ -1,0 +1,63 @@
+@CHARSET "UTF-8";
+
+
+/*******************************/
+.container{
+	
+}
+.container_left{
+	float: left;
+	width: 716px;
+}
+.container_right{
+	float: right;
+	width: 284px;
+}
+.kuaican{
+	border: 1px solid #cbccc7;
+	height: 223px;
+	width: 690px;
+	margin: 10px auto 0px auto;
+	padding: 0px 12px;
+	background-color: white;
+}
+.canting{
+	border: 1px solid #cbccc7;
+	width: 690px;
+	margin: 10px auto 0px auto;
+	height: 526px;
+	padding: 0px 12px;
+	background-color: white;
+}
+
+.container_left .title{
+	height: 38px;
+	background: url("images/index_item_bg_15x15.png") no-repeat 0px 12px;
+	padding-left: 20px;
+}
+.container_left .title_left{
+	line-height: 38px;
+}
+.container_left .title_right{
+	line-height: 38px;
+}
+.container_left .item{
+	width: 305px;
+	height: 72px;
+	background-color: red;
+	margin-top: 12px;
+}
+.container_left .line1{
+	border-bottom: 2px solid #978346
+}
+.container_left .line2{
+	border-bottom: 2px solid #d48205
+}
+.container_left .line3{
+	border-bottom: 2px solid #b4b303
+}
+
+.container_left .item .tupian{
+	
+}
+
