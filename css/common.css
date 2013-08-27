@@ -80,6 +80,10 @@ img{
 .marginH10{margin-left: 10px;margin-right: 10px;}
 .marginV10{margin-top: 10px;margin-bottom: 10px;}
 
+.support_layer {
+	height: 1px;
+	clear: both;
+}
 
 /************网页顶部公共部分***************/
 .top{
