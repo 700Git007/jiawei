@@ -145,6 +145,100 @@
 					<div class="title_left floatLeft orange font16 bold">特色餐厅</div>
 					<div class="title_right floatRight"><a href="" class="red">更多&gt;&gt;</a></div>
 				</div>
+				<div class="list">
+					<div class="item line4">
+						<div class="item_left floatLeft"><a href=""><img src="css/images/index_demo_110x83.png" width="110" height="83" /></a></div>
+						<div class="item_mid floatLeft marginLeft10">
+							<div class="dianming orange font14 bold">东方饺子王(五羊新城店)</div>
+							<div class="note">
+								<div class="note_left floatLeft">中式</div>
+								<div class="note_right floatLeft">配 送 费： 免费配送</div>
+								<div class="support_layer"></div>
+							</div>
+							<div class="note">
+								<div class="note_left floatLeft">人均消费： ￥34元</div>
+								<div class="note_right floatLeft">起送金额： 10.00元 起送</div>
+								<div class="support_layer"></div>
+							</div>
+							<div class="note">配送时间： 11：00 - 13:00 (提前20分钟下单)</div>
+						</div>
+						<div class="item_right floatRight">
+							<div><a href=""><img src="css/images/index_item_dianpukankan_79x26.png" width="79" height="26"/></a></div>
+							<div class="kancaidan"><a href=""><img src="css/images/index_item_kancaidan_79x26.png" width="79" height="26"/></a></div>
+						</div>
+						<div class="support_layer"></div>
+					</div>
+					
+					<div class="item line4">
+						<div class="item_left floatLeft"><a href=""><img src="css/images/index_demo_110x83.png" width="110" height="83" /></a></div>
+						<div class="item_mid floatLeft marginLeft10">
+							<div class="dianming orange font14 bold">东方饺子王(五羊新城店)</div>
+							<div class="note">
+								<div class="note_left floatLeft">中式</div>
+								<div class="note_right floatLeft">配 送 费： 免费配送</div>
+								<div class="support_layer"></div>
+							</div>
+							<div class="note">
+								<div class="note_left floatLeft">人均消费： ￥34元</div>
+								<div class="note_right floatLeft">起送金额： 10.00元 起送</div>
+								<div class="support_layer"></div>
+							</div>
+							<div class="note">配送时间： 11：00 - 13:00 (提前20分钟下单)</div>
+						</div>
+						<div class="item_right floatRight">
+							<div><a href=""><img src="css/images/index_item_dianpukankan_79x26.png" width="79" height="26"/></a></div>
+							<div class="kancaidan"><a href=""><img src="css/images/index_item_kancaidan_79x26.png" width="79" height="26"/></a></div>
+						</div>
+						<div class="support_layer"></div>
+					</div>
+					
+					<div class="item line4">
+						<div class="item_left floatLeft"><a href=""><img src="css/images/index_demo_110x83.png" width="110" height="83" /></a></div>
+						<div class="item_mid floatLeft marginLeft10">
+							<div class="dianming orange font14 bold">东方饺子王(五羊新城店)</div>
+							<div class="note">
+								<div class="note_left floatLeft">中式</div>
+								<div class="note_right floatLeft">配 送 费： 免费配送</div>
+								<div class="support_layer"></div>
+							</div>
+							<div class="note">
+								<div class="note_left floatLeft">人均消费： ￥34元</div>
+								<div class="note_right floatLeft">起送金额： 10.00元 起送</div>
+								<div class="support_layer"></div>
+							</div>
+							<div class="note">配送时间： 11：00 - 13:00 (提前20分钟下单)</div>
+						</div>
+						<div class="item_right floatRight">
+							<div><a href=""><img src="css/images/index_item_dianpukankan_79x26.png" width="79" height="26"/></a></div>
+							<div class="kancaidan"><a href=""><img src="css/images/index_item_kancaidan_79x26.png" width="79" height="26"/></a></div>
+						</div>
+						<div class="support_layer"></div>
+					</div>
+					
+					<div class="item line4">
+						<div class="item_left floatLeft"><a href=""><img src="css/images/index_demo_110x83.png" width="110" height="83" /></a></div>
+						<div class="item_mid floatLeft marginLeft10">
+							<div class="dianming orange font14 bold">东方饺子王(五羊新城店)</div>
+							<div class="note">
+								<div class="note_left floatLeft">中式</div>
+								<div class="note_right floatLeft">配 送 费： 免费配送</div>
+								<div class="support_layer"></div>
+							</div>
+							<div class="note">
+								<div class="note_left floatLeft">人均消费： ￥34元</div>
+								<div class="note_right floatLeft">起送金额： 10.00元 起送</div>
+								<div class="support_layer"></div>
+							</div>
+							<div class="note">配送时间： 11：00 - 13:00 (提前20分钟下单)</div>
+						</div>
+						<div class="item_right floatRight">
+							<div><a href=""><img src="css/images/index_item_dianpukankan_79x26.png" width="79" height="26"/></a></div>
+							<div class="kancaidan"><a href=""><img src="css/images/index_item_kancaidan_79x26.png" width="79" height="26"/></a></div>
+						</div>
+						<div class="support_layer"></div>
+					</div>
+				</div>
+				<!-- list -->
 			</div>
 			
 		</div>

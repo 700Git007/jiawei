@@ -21,14 +21,6 @@
 	padding: 0px 12px;
 	background-color: white;
 }
-.canting{
-	border: 1px solid #cbccc7;
-	width: 690px;
-	margin: 10px auto 0px auto;
-	height: 526px;
-	padding: 0px 12px;
-	background-color: white;
-}
 
 .container_left .title{
 	height: 38px;
@@ -41,12 +33,7 @@
 .container_left .title_right{
 	line-height: 38px;
 }
-.container_left .item{
-	width: 305px;
-	height: 72px;
-	/*background-color: #EEEEEE;*/
-	margin-top: 12px;
-}
+
 .container_left .line1{
 	border-bottom: 2px solid #978346;
 }
@@ -56,22 +43,33 @@
 .container_left .line3{
 	border-bottom: 2px solid #b4b303;
 }
+.container_left .line4{
+	border-bottom: 1px solid #A0A0A0;
+}
 
-.container_left .item .tupian{
+/**************/
+.kuaican .item{
+	width: 305px;
+	height: 72px;
+	/*background-color: #EEEEEE;*/
+	margin-top: 12px;
+}
+
+.kuaican .item .tupian{
 	margin-top: 3px;
     width: 93px;
 }
-.container_left .item .dianming {
+.kuaican .item .dianming {
 	margin-bottom: 3px;
 }
-.container_left .item .wuxing {
+.kuaican .item .wuxing {
 	margin-top: 3px;
 }
-.container_left .list .kuaican_item_right {
+.kuaican .list .kuaican_item_right {
 	margin-left: 73px;
 }
 
-.container_left .item .pic_status_action, .container_left .item .pic_status_rest {
+.kuaican .item .pic_status_action, .kuaican .item .pic_status_rest {
 	height: 20px;
     left: 0;
     position: absolute;
@@ -79,10 +77,44 @@
     width: 59px;
     z-index: 10;
 }
-.container_left .item .pic_status_action {
+.kuaican .item .pic_status_action {
 	background: url("images/index_item_action_59x20.png") no-repeat 0 0;
 }
-.container_left .item .pic_status_rest {
+.kuaican .item .pic_status_rest {
 	background: url("images/index_item_rest_59x20.png") no-repeat 0 0;
 }
-
+/**************/
+.canting{
+	border: 1px solid #cbccc7;
+	width: 690px;
+	margin: 10px auto 0px auto;
+	padding: 0 12px 20px;
+	background-color: white;
+}
+.canting .item {
+	margin: 0 auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 671px;
+}
+.canting .item_left {
+	margin-top: 4px;
+}
+.canting .item_mid .dianming {
+	margin-bottom: 10px;
+    margin-top: 7px;
+}
+.canting .item_mid .note {
+	line-height: 18px;
+}
+.canting .item_mid .note_left {
+	width: 151px;
+}
+.canting .item_right {
+	margin-right: 66px;
+    margin-top: 13px;
+}
+.canting .item_right .kancaidan {
+	margin-top: 12px;
+}
+/**************/
