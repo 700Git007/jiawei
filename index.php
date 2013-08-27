@@ -240,6 +240,17 @@
 				</div>
 				<!-- list -->
 			</div>
+			<!-- canting -->
+			
+			<div class="order_tips">
+				<div class="tips_title font14">订餐小贴士</div>
+				<div class="order_flow relative">
+					<div class="fill_address font14">填写地址</div>
+					<div class="pick_commodity font14">挑选宝贝</div>
+					<div class="delivery font14">送货上门</div>
+				</div>
+			</div>
+			<!-- order_tips -->
 			
 		</div>
 		<!-- container_left -->
