@@ -42,6 +42,12 @@ ul,li {
 img{
 	border: 0px;
 }
+.hidden{
+	display: none;
+}
+.show{
+	display:block;
+}
 
 .bold {font-weight: bold;}
 .floatLeft {float: left;}
@@ -121,9 +127,6 @@ img{
 	height:37px;
 	background:url("images/index_favorite_11x37.png") no-repeat 0px 0px;
 }
-.top .ico_friend{
-	
-}
 .top .head_right{
 	float: right;
 	width: 88px;
@@ -139,14 +142,55 @@ img{
 	padding-left: 40px;
 	background:url("images/index_friend_menu_20x37.png") no-repeat 15px -4px;
 }
-
-.top .listFriendText{
-	margin-left: 15px;
+.top .listFriend{
+	width: 78px;
+	padding-left: 10px;
+	background:url("images/index_friend_list_10x36.png") no-repeat 65px -1px;
 }
+
 .top .windowFriend{
-	width: 172px;
-	height: 400px;
+	width: 171px;
+	height: 446px;
 	border: 1px solid #e1cab4;
+	position: absolute;
+	left: 0px;
+	top: 37px;
+	overflow: hidden;
+	background-color: white;
+}
+.top .windowFriend .friendHead{
+	height: 27px;
+	border-bottom: 1px solid #e1cab4;
+}
+.top .windowFriend .friendMiddle{
+	height: 392px;
+	overflow: auto;
+}
+.top .windowFriend .friendBottom{
+	height: 25px;
+	border-top: 1px solid #e1cab4;
+}
+.top .windowFriend .tab1{
+	background:url("images/index_friend_person_10x14.png") no-repeat 25px 7px;
+	width: 56px;
+	float: left;
+	height: 27px;
+	border-right: 1px solid #e1cab4;
+}
+.top .windowFriend .tab2{
+	background:url("images/index_friend_persons_13x16.png") no-repeat 25px 7px;
+	width: 57px;
+	float: left;
+	height: 27px;
+	border-right: 1px solid #e1cab4;
+	background-color: #ebebeb;
+}
+.top .windowFriend .tab3{
+	background:url("images/index_friend_time_12x12.png") no-repeat 25px 7px;
+	width: 56px;
+	float: left;
+	height: 27px;
+	background-color: #ebebeb;
 }
 .search{
 	height: 123px;

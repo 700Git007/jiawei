@@ -11,15 +11,24 @@
 			<div class="head_left">
 				<span class="font14 marginRight5">广州天河区</span>【<a href="">切换城市</a>】
 			</div>
-			<div class="head_right">
-				<div class="myFriend pointer" id="myFriend">
-					好友
+			<div class="head_right relative">
+				<div class="myFriend show pointer" id="myFriend">好友</div>
+				<div class="listFriend hidden pointer" id="listFriend">好友列表</div>
+				<!-- 好友列表 -->
+				<div class="windowFriend show">
+					<div class="friendHead">
+						<div class="tab1"></div>
+						<div class="tab2"></div>
+						<div class="tab3"></div>
+					</div>
+					<div class="friendMiddle">
+						
+					</div>
+					<div class="friendBottom">
+						
+					</div>
 				</div>
-				<!--<div class="listFriend relative pointer" id="listFriend">
-					<div class="listFriendText">好友列表</div>
-					<div class="ico ico_friend_list"></div>
-				</div>-->
-				</div>
+			</div>
 			<div class="head_middle marginRight10">
 				<div class="floatLeft">HI，xxx!</div>
 				<div class="floatLeft"><div class="ico_level2"></div></div>
